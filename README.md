@@ -6,7 +6,6 @@ The instructor's name is Scott Dossey
 
 ## Students
 
-* Test student 1
 * Paul Perez
 * Pete Hahnloser
 * Lizbeth Rangel Lara
