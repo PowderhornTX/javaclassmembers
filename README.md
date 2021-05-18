@@ -10,3 +10,4 @@ The instructor's name is Scott Dossey
 * Paul Perez
 * Pete Hahnloser
 * Lizbeth Rangel Lara
+* Dominic Casas
